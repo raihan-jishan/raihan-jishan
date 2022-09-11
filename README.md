@@ -7,7 +7,7 @@
 ✔I also love to customize vs code with using lot of extention.
 😥I am currently can't achivement of  full stack devoloper title. But i also currently  learning node. In the  future i making  mern stack project. 
 
-Skills: Html, Css, Js, React, wordpress Node
+Skills: Html, Css, Tailwind, Boostrap, Js, React, wordpress Node, mongodb...
 
 - 🔭 I’m currently working on https://rb-nine.vercel.app/ 
 - 🌱 I’m currently learning Node JS 
