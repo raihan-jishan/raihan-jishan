@@ -7,7 +7,13 @@
 ### ✔I also love to customize vs code with using lot of extention.
 ### 😥I am currently can't achivement of  full stack devoloper title. But i also currently  learning node. In the  future i making  mern stack project. 
 
-## `Skills: Html, Css, Tailwind, Boostrap, Js, React, wordpress Node, mongodb...`
+## `Skills: . ⬇ ≧ ﹏ ≦`
+### `Merkup |  F r o n t __ E n d`
+# HTML -- css -- JS -- Tailwind:css -- Boostrap -- Mui -- chakraUi -- React js <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /> --- Vue js -- others
+### `Back-End || skils`
+# Node js -- Express js -- MongoDB -- mongoose -- php 
+## `Tools`
+# Github, git , Vscode, figma , photoshop,` others ...  ...`
 
 ###  - 🔭 I’m currently working on https://rb-nine.vercel.app/ 
 ###  - 🌱 I’m currently learning Node JS 
