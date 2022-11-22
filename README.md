@@ -9,7 +9,7 @@
 
 ## `Skills: . ⬇ ≧ ﹏ ≦`
 ### `Merkup |  F r o n t __ E n d`
-# HTML -- css -- JS -- Tailwind:css -- Boostrap -- Mui -- chakraUi -- React js <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width='35' height='30' /> --- Vue js -- others
+# HTML -- css -- JS -- Tailwind:css -- Boostrap -- Mui -- chakraUi -- React js <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width='30' height='30' /> --- Vue js -- others
 ### `Back-End || skils`
 # Node js -- Express js -- MongoDB -- mongoose -- php 
 ## `Tools`
