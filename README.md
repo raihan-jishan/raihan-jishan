@@ -58,12 +58,12 @@ https://raihanjishan3242@gmail.com
  <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" width="125" height="63" />
  <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" width="125" height="63" />
  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" width="125" height="63" />
- <img src="https://www.bing.com/th?id=OIP.AAkVsD9SIp0eF2a4BylPLQHaEH&w=335&h=186&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="140" height="63" />
- <img src="https://www.bing.com/th?id=OIP.hXaOT1AkPnxwNC82h6tEwQHaCp&w=350&h=124&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="140" height="63" />
- <img src="https://www.bing.com/th?id=OIP.kjCUP06WDUMR88i5wo2SqwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="140" height="63" />
- <img src="https://th.bing.com/th/id/OIP.w8rsQig6fpXe4FuiF-ircQHaHa?w=218&h=218&c=7&r=0&o=5&pid=1.7" width="140" height="63" />
- <img src=""https://th.bing.com/th/id/OIP.7xmteOV3RYQeOSSmn-f8TgHaCv?w=339&h=129&c=7&r=0&o=5&pid=1.7 width="140" height="63" />
- <img src="https://th.bing.com/th/id/OIP.Udf5ig2GyA1v_G6xsQKY4wHaEX?pid=ImgDet&rs=1" width="140" height="63" />
+ <img src="https://www.bing.com/th?id=OIP.AAkVsD9SIp0eF2a4BylPLQHaEH&w=335&h=186&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="140" height="70" />
+ <img src="https://www.bing.com/th?id=OIP.hXaOT1AkPnxwNC82h6tEwQHaCp&w=350&h=124&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="140" height="70" />
+ <img src="https://www.bing.com/th?id=OIP.kjCUP06WDUMR88i5wo2SqwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="140" height="70" />
+ <img src="https://th.bing.com/th/id/OIP.w8rsQig6fpXe4FuiF-ircQHaHa?w=218&h=218&c=7&r=0&o=5&pid=1.7" width="140" height="70" />
+ <img src=""https://th.bing.com/th/id/OIP.7xmteOV3RYQeOSSmn-f8TgHaCv?w=339&h=129&c=7&r=0&o=5&pid=1.7 width="140" height="70" />
+ <img src="https://th.bing.com/th/id/OIP.Udf5ig2GyA1v_G6xsQKY4wHaEX?pid=ImgDet&rs=1" width="140"  height="70" />
  </h3>
 
 
