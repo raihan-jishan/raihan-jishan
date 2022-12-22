@@ -19,7 +19,7 @@ https://raihanjishan3242@gmail.com
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="50" height="45" /> 
 
  
- <img src="https://th.bing.com/th/id/OIP.0rHhkJGjUw37i-wGtakm3AHaHa?w=146&h=180&c=7&r=0&o=5&pid=1.7"  width="140" height="55" /> 
+ <img src="https://th.bing.com/th/id/OIP.0rHhkJGjUw37i-wGtakm3AHaHa?w=146&h=180&c=7&r=0&o=5&pid=1.7"  width="120" height="55" /> 
 <img src="https://th.bing.com/th/id/OIP.csWCtvv-ln1Y-EjFgOmregHaCe?w=327&h=116&c=7&r=0&o=5&pid=1.7"  width="155" height="55" /> 
  <img src="https://www.bing.com/th?id=OIP.y34TPDIE-YiB6SdaEjT8vgHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="150" height="55"/> 
  <img src="https://th.bing.com/th/id/OIP.VlUJykgkLTpmgjWaIROQLAHaA7?pid=ImgDet&rs=1"  width="160" height="55" /></h3>
