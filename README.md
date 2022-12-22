@@ -29,9 +29,10 @@ https://raihanjishan3242@gmail.com
  
  <h3>
  <img src="https://howtogeek.com/wp-content/uploads/csit/2019/07/9608c9ff.png?height=200p&trim=2,2,2,2&crop=16:9" width="125" height="63" /> 
- <img src="https://cdn-icons-png.flaticon.com/128/753/753244.png" width="125" height="63"/>
- <img src="https://cdn-icons-png.flaticon.com/128/1183/1183673.png" width="125" height="63" />
+ <img src="https://cdn-icons-png.flaticon.com/128/753/753244.png" width="150" height="63"/>
+ <img src="https://cdn-icons-png.flaticon.com/128/1183/1183673.png" width="150" height="63" />
  <img src="https://www.bing.com/th?id=OIP.uKcXMiwIIUy4xkgtEto6kAAAAA&w=328&h=176&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="125" height="63" />
+ <img src="https://th.bing.com/th/id/OIP.pM4to_0FcQy6Re3DejMVoQHaDn?w=301&h=170&c=7&r=0&o=5&pid=1.7" width="125" height="62" />
  </h3>
 
 
