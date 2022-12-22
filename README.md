@@ -80,7 +80,9 @@ https://raihanjishan3242@gmail.com
 <h3>ᴀɴᴅ ᴏɴᴇ ʟᴀsᴛ ғᴜɴғᴀᴄᴛ ɪ ᴀʟsᴏ ʟᴏᴠᴇ ᴍʏ ʟᴇᴘᴛᴏᴘ ᴀʟsᴏ<img src="https://cdn-icons-png.flaticon.com/128/7626/7626740.png" width="50" height="45" /> </h3>
 
 
- <h2 align="center">ᴀɴᴅ ᴛʜᴀɴᴋ You  So-Much  ᴍʏ sᴍᴀʀᴛᴇʀ ғʀᴇɪɴᴅ ғᴏʀ sᴇᴇɪɴɢ ᴛʜɪs, sᴏʀʀʏ! ɪғ ʏᴏᴜ ғᴇᴇʟ ᴍᴇ ᴀɴʏᴛʜɴɢ ᴇʟsᴇ.. ɪɴ sᴋɪʟʟ ᴏʀ ᴏᴛʜᴇʀ sᴛᴀғs..．</h2>
+ <h2 align="center">ᴀɴᴅ ᴛʜᴀɴᴋ You  So-Much  ᴍʏ sᴍᴀʀᴛᴇʀ ғʀᴇɪɴᴅ ғᴏʀ sᴇᴇɪɴɢ ᴛʜɪs, sᴏʀʀʏ! ɪғ ʏᴏᴜ ғᴇᴇʟ ᴍᴇ ᴀɴʏᴛʜɴɢ ᴇʟsᴇ.. ɪɴ sᴋɪʟʟ ᴏʀ ᴏᴛʜᴇʀ sᴛᴀғs..．
+I'am really sorry for that.... 
+</h2>
  <h1><img src="https://cdn-icons-png.flaticon.com/128/2279/2279398.png" width="170" height="80" /></h1>
 
 
