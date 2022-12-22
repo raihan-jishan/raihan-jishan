@@ -28,7 +28,7 @@ https://raihanjishan3242@gmail.com
  
  
  <h3>
- <img src="https://howtogeek.com/wp-content/uploads/csit/2019/07/9608c9ff.png?height=200p&trim=2,2,2,2&crop=16:9" width="65" height="60" /> 
+ <img src="https://howtogeek.com/wp-content/uploads/csit/2019/07/9608c9ff.png?height=200p&trim=2,2,2,2&crop=16:9" width="125" height="63" /> 
  
  </h3>
 
