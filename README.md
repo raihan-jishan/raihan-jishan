@@ -3,8 +3,8 @@
 </h2>
 <img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/Screenshot%20(125).png"   />
 <h3><img src="https://cdn-icons-png.flaticon.com/128/8174/8174948.png" width="46" height="40" /> ᴀʙᴏᴜᴛ ᴍᴇ --> </h3>
-<h2>ɪ ᴀᴍ ᴊʀ ᴡᴇᴠ/ᴀᴘᴘʟɪᴄᴀᴄᴀᴛɪᴏɴ_ᴅᴇᴠᴏʟᴏᴘᴇʀ <img src="https://cdn-icons-png.flaticon.com/128/5813/5813665.png" /> </h2>
-<h2> ❤I enjoy coding and love to build projects </h2>
+<h2>ɪ ᴀᴍ ᴊʀ ᴡᴇᴠ/ᴀᴘᴘʟɪᴄᴀᴄᴀᴛɪᴏɴ_ᴅᴇᴠᴏʟᴏᴘᴇʀ <img src="https://cdn-icons-png.flaticon.com/128/5813/5813665.png" width="50" height="45"/> </h2>
+<h2> ❤𝙸 𝚎𝚗𝚓𝚘𝚢 𝚌𝚘𝚍𝚒𝚗𝚐 𝚊𝚗𝚍 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 <img src="https://cdn-icons-png.flaticon.com/128/5813/5813766.png" width="45" height="38" />  </h2>
 <h2> 💛I also loved to diploy app and showing to others in that url</h2>
 <h2> ✔I also love to customize vs code with using lot of extention.</h2>
 <h2> 😥I am currently can't achivement of  full stack devoloper title. But i also currently  learning node. In the  future i making  mern stack project. </h2>
