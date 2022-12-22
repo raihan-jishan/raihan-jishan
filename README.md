@@ -3,6 +3,7 @@
 </h2>
 <img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/Screenshot%20(125).png"   />
 <h3><img src="https://cdn-icons-png.flaticon.com/128/8174/8174948.png" width="46" height="40" /> ᴀʙᴏᴜᴛ ᴍᴇ --> </h3>
+<h2>ɪ ᴀᴍ ᴊʀ ᴡᴇᴠ/ᴀᴘᴘʟɪᴄᴀᴄᴀᴛɪᴏɴ_ᴅᴇᴠᴏʟᴏᴘᴇʀ <img src="https://cdn-icons-png.flaticon.com/128/5813/5813665.png" /> </h2>
 <h2> ❤I enjoy coding and love to build projects </h2>
 <h2> 💛I also loved to diploy app and showing to others in that url</h2>
 <h2> ✔I also love to customize vs code with using lot of extention.</h2>
