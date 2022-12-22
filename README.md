@@ -13,14 +13,8 @@
 <h3>𝚖𝚘𝚜𝚝 𝚞𝚜𝚎𝚍 𝚕𝚒𝚗𝚎𝚜 𝚌𝚘𝚗𝚜𝚘𝚕𝚎.𝚕𝚘𝚐('𝚑𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍')</h3>
 <h2>ｃｏｎｔａｃｔ　ｍｅ　 <img src="https://cdn-icons-png.flaticon.com/128/5809/5809295.png" width="50" height="45" /></h2>
 https://raihanjishan3242@gmail.com 
-## `Skills: . ⬇ ≧ ﹏ ≦`
-### `Merkup |  F r o n t __ E n d`
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) (#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) (#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-# HTML -- css -- JS -- Tailwind:css -- Boostrap -- Mui -- chakraUi -- React js <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width='30' height='30' /> Next js -- --- Vue js -- others
-### `Back-End || skils`
-# Node js  -- Express js -- MongoDB [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)] -- mongoose -- php 
-## `Tools`
-# Github, git , Vscode, figma , photoshop,` others ...  ...`
+<h1>🅼🆈 🆂🅺🅸🅻🅻🆂 <img src="https://cdn-icons-png.flaticon.com/128/7163/7163935.png" width="50" height="45" /> </h1>
+
 
 ###  - 🔭 I’m currently working on https://rb-nine.vercel.app/ 
 ###  - 🌱 I’m currently learning Node JS 
