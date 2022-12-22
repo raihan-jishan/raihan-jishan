@@ -1,6 +1,5 @@
 <h1 align="center"> `ʜɪ ᴛʜᴇʀᴇ 👋, ᴍʏ sᴍᴀʀᴛᴇʀ  ғʀɪᴇɴᴅ.` </h1>
-<h3 align="center"> I'm Raihan, Wev & application Devoloper. from  Bangladesh. I spend most of the time to see tutorials and collect valuable knowledge from Youtube. It is part of my life
-![I'm Raihan, Wev & application Devoloper. from  Bangladesh. I spend most of the time to see tutorials and collect valuable knowledge from Youtube. It is part of my life]
+<h3 align="center"> ɪ'ᴍ ʀᴀɪʜᴀɴ, ᴡᴇᴠ & ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴅᴇᴠᴏʟᴏᴘᴇʀ. ғʀᴏᴍ ʙᴀɴɢʟᴀᴅᴇsʜ. ɪ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ sᴇᴇ ᴛᴜᴛᴏʀɪᴀʟs ᴀɴᴅ ᴄᴏʟʟᴇᴄᴛ ᴠᴀʟᴜᴀʙʟᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ. ɪᴛ ɪs ᴘᴀʀᴛ ᴏғ ᴍʏ ʟɪғᴇ ![ɪ'ᴍ ʀᴀɪʜᴀɴ, ᴡᴇᴠ & ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴅᴇᴠᴏʟᴏᴘᴇʀ. ғʀᴏᴍ ʙᴀɴɢʟᴀᴅᴇsʜ. ɪ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ sᴇᴇ ᴛᴜᴛᴏʀɪᴀʟs ᴀɴᴅ ᴄᴏʟʟᴇᴄᴛ ᴠᴀʟᴜᴀʙʟᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ. ɪᴛ ɪs ᴘᴀʀᴛ ᴏғ ᴍʏ ʟɪғᴇ]
 </h3>
 (https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/Screenshot%20(125).png)
 
