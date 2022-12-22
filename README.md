@@ -1,5 +1,5 @@
 <h1 align="center"> `ʜɪ ᴛʜᴇʀᴇ 👋, ᴍʏ sᴍᴀʀᴛᴇʀ  ғʀɪᴇɴᴅ.` <img src="https://cdn-icons-png.flaticon.com/128/689/689392.png" width="50" height="50"/></h1>
-<h2 align="left">  ɪ'ᴍ ʀᴀɪʜᴀɴ,  ᴡᴇᴠ & ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴅᴇᴠᴏʟᴏᴘᴇʀ. ғʀᴏᴍ ʙᴀɴɢʟᴀᴅᴇsʜ. ɪ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ sᴇᴇ ᴛᴜᴛᴏʀɪᴀʟs ᴀɴᴅ ᴄᴏʟʟᴇᴄᴛ ᴠᴀʟᴜᴀʙʟᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ. ɪᴛ ɪs ᴘᴀʀᴛ ᴏғ ᴍʏ ʟɪғᴇ ![ɪ'ᴍ ʀᴀɪʜᴀɴ, ᴡᴇᴠ & ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴅᴇᴠᴏʟᴏᴘᴇʀ. ғʀᴏᴍ ʙᴀɴɢʟᴀᴅᴇsʜ. ɪ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ sᴇᴇ ᴛᴜᴛᴏʀɪᴀʟs ᴀɴᴅ ᴄᴏʟʟᴇᴄᴛ ᴠᴀʟᴜᴀʙʟᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ. ɪᴛ ɪs ᴘᴀʀᴛ ᴏғ ᴍʏ ʟɪғᴇ]
+<h2 align="left">  ɪ'ᴍ ʀᴀɪʜᴀɴ, A Student  And ᴡᴇᴠ & ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴅᴇᴠᴏʟᴏᴘᴇʀ. ғʀᴏᴍ ʙᴀɴɢʟᴀᴅᴇsʜ. ɪ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ sᴇᴇ ᴛᴜᴛᴏʀɪᴀʟs ᴀɴᴅ ᴄᴏʟʟᴇᴄᴛ ᴠᴀʟᴜᴀʙʟᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ. ɪᴛ ɪs ᴘᴀʀᴛ ᴏғ ᴍʏ ʟɪғᴇ ![ɪ'ᴍ ʀᴀɪʜᴀɴ, ᴡᴇᴠ & ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴅᴇᴠᴏʟᴏᴘᴇʀ. ғʀᴏᴍ ʙᴀɴɢʟᴀᴅᴇsʜ. ɪ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ sᴇᴇ ᴛᴜᴛᴏʀɪᴀʟs ᴀɴᴅ ᴄᴏʟʟᴇᴄᴛ ᴠᴀʟᴜᴀʙʟᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ. ɪᴛ ɪs ᴘᴀʀᴛ ᴏғ ᴍʏ ʟɪғᴇ]
 </h2>
 <img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/Screenshot%20(125).png"   />
 <h3><img src="https://cdn-icons-png.flaticon.com/128/8174/8174948.png" width="46" height="40" /> ᴀʙᴏᴜᴛ ᴍᴇ --> </h3>
@@ -29,7 +29,9 @@ https://raihanjishan3242@gmail.com
  
  <h3>
  <img src="https://howtogeek.com/wp-content/uploads/csit/2019/07/9608c9ff.png?height=200p&trim=2,2,2,2&crop=16:9" width="125" height="63" /> 
- 
+ <img src="https://cdn-icons-png.flaticon.com/128/753/753244.png" width="125" height="63"/>
+ <img src="https://cdn-icons-png.flaticon.com/128/1183/1183673.png" width="125" height="63" />
+ <img src="https://www.bing.com/th?id=OIP.uKcXMiwIIUy4xkgtEto6kAAAAA&w=328&h=176&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="125" height="63" />
  </h3>
 
 
