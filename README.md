@@ -13,7 +13,7 @@
 <h3>𝚖𝚘𝚜𝚝 𝚞𝚜𝚎𝚍 𝚕𝚒𝚗𝚎𝚜 𝚌𝚘𝚗𝚜𝚘𝚕𝚎.𝚕𝚘𝚐('𝚑𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍')</h3>
 <h2>ｃｏｎｔａｃｔ　ｍｅ　 <img src="https://cdn-icons-png.flaticon.com/128/5809/5809295.png" width="50" height="45" /></h2>
 https://raihanjishan3242@gmail.com 
-<h1>🅼🆈 🆂🅺🅸🅻🅻🆂 <img src="https://cdn-icons-png.flaticon.com/128/7163/7163935.png" width="50" height="45" /> </h1>
+<h1 align="center">🅼🆈 🆂🅺🅸🅻🅻'🆂 <img src="https://cdn-icons-png.flaticon.com/128/7163/7163935.png" width="50" height="50" /> </h1>
 
 
 ###  - 🔭 I’m currently working on https://rb-nine.vercel.app/ 
