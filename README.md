@@ -10,7 +10,7 @@
 <h2>ɪ ᴀʟsᴏ ʟɪᴋᴇ ᴛᴏ ᴄᴜsᴛᴏᴍɪᴢᴇ ᴍʏ ᴅᴀɪʟʏ ᴜsᴇᴅ ᴛᴏᴏʟs. <img src="https://cdn-icons-png.flaticon.com/128/4067/4067628.png" width="50" height="45" /></h2>
 <h2>ᴀʟʟ ᴍʏ ᴘʀᴏᴊᴇᴄᴛs ɪ ᴘᴜᴛ ɢɪᴛʜᴜʙ ʀᴇɢᴜʟᴀʀʟʏ <img src="https://t4.ftcdn.net/jpg/02/50/30/59/240_F_250305943_sDC6la1N1fDl3bLgfLxOkQwItIodsdMb.jpg" width="50" height="45"/></h2>
 <h2>  ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ Fronted-Back-End ᴅᴇᴠᴏʟᴏᴘᴍᴇɴᴛ <img src="https://cdn-icons-png.flaticon.com/128/2408/2408274.png" width="50" height="45" /></h2>
-<h2>ｃｏｎｔａｃｔ　ｍｅ　 <img src="https://cdn-icons-png.flaticon.com/128/5809/5809295.png" width="50" height="45" /> **raihanjishan3242@gmail.com** </h2>
+<h2>ｃｏｎｔａｃｔ　ｍｅ　 <img src="https://cdn-icons-png.flaticon.com/128/5809/5809295.png" width="50" height="45" /></h2>** raihanjishan3242@gmail.com **
 <h3></h3>
 ## `Skills: . ⬇ ≧ ﹏ ≦`
 ### `Merkup |  F r o n t __ E n d`
