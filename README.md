@@ -3,10 +3,10 @@
 </h2>
 <img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/Screenshot%20(125).png"   />
 <h3><img src="https://cdn-icons-png.flaticon.com/128/8174/8174948.png" width="46" height="40" /> ᴀʙᴏᴜᴛ ᴍᴇ --> </h3>
-### ❤I enjoy coding and love to build projects
-### 💛I also loved to diploy app and showing to others in that url
-### ✔I also love to customize vs code with using lot of extention.
-### 😥I am currently can't achivement of  full stack devoloper title. But i also currently  learning node. In the  future i making  mern stack project. 
+<h2> ❤I enjoy coding and love to build projects </h2>
+<h2> 💛I also loved to diploy app and showing to others in that url</h2>
+<h2> ✔I also love to customize vs code with using lot of extention.</h2>
+<h2> 😥I am currently can't achivement of  full stack devoloper title. But i also currently  learning node. In the  future i making  mern stack project. </h2>
 
 ## `Skills: . ⬇ ≧ ﹏ ≦`
 ### `Merkup |  F r o n t __ E n d`
