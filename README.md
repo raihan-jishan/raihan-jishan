@@ -1,7 +1,7 @@
 <h1 align="center"> `ʜɪ ᴛʜᴇʀᴇ 👋, ᴍʏ sᴍᴀʀᴛᴇʀ  ғʀɪᴇɴᴅ.` </h1>
 <h2 align="left">  ɪ'ᴍ ʀᴀɪʜᴀɴ,  ᴡᴇᴠ & ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴅᴇᴠᴏʟᴏᴘᴇʀ. ғʀᴏᴍ ʙᴀɴɢʟᴀᴅᴇsʜ. ɪ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ sᴇᴇ ᴛᴜᴛᴏʀɪᴀʟs ᴀɴᴅ ᴄᴏʟʟᴇᴄᴛ ᴠᴀʟᴜᴀʙʟᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ. ɪᴛ ɪs ᴘᴀʀᴛ ᴏғ ᴍʏ ʟɪғᴇ ![ɪ'ᴍ ʀᴀɪʜᴀɴ, ᴡᴇᴠ & ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴅᴇᴠᴏʟᴏᴘᴇʀ. ғʀᴏᴍ ʙᴀɴɢʟᴀᴅᴇsʜ. ɪ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ sᴇᴇ ᴛᴜᴛᴏʀɪᴀʟs ᴀɴᴅ ᴄᴏʟʟᴇᴄᴛ ᴠᴀʟᴜᴀʙʟᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ. ɪᴛ ɪs ᴘᴀʀᴛ ᴏғ ᴍʏ ʟɪғᴇ]
 </h2>
-<img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/Screenshot%20(125).png"  height="400" />
+<img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/Screenshot%20(125).png"   />
 
 ### ❤I enjoy coding and love to build projects
 ### 💛I also loved to diploy app and showing to others in that url
