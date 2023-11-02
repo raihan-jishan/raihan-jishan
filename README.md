@@ -1,92 +1,305 @@
-<h1 align="center"> `ʜɪ ᴛʜᴇʀᴇ 👋, ᴍʏ sᴍᴀʀᴛᴇʀ  ғʀɪᴇɴᴅ.` <img src="https://cdn-icons-png.flaticon.com/128/689/689392.png" width="50" height="50"/></h1>
-<h2 align="left">  ɪ'ᴍ ʀᴀɪʜᴀɴ, A Student  And ᴡᴇᴠ & ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴅᴇᴠᴏʟᴏᴘᴇʀ. ғʀᴏᴍ ʙᴀɴɢʟᴀᴅᴇsʜ. ɪ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ sᴇᴇ ᴛᴜᴛᴏʀɪᴀʟs ᴀɴᴅ ᴄᴏʟʟᴇᴄᴛ ᴠᴀʟᴜᴀʙʟᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ. ɪᴛ ɪs ᴘᴀʀᴛ ᴏғ ᴍʏ ʟɪғᴇ !
-</h2>
-<img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/Screenshot%20(125).png"   />
-<h3><img src="https://cdn-icons-png.flaticon.com/128/8174/8174948.png" width="46" height="40" /> ᴀʙᴏᴜᴛ ᴍᴇ --> </h3>
-<h2>ɪ ᴀᴍ ᴊʀ ᴡᴇᴠ/ᴀᴘᴘʟɪᴄᴀᴄᴀᴛɪᴏɴ_ᴅᴇᴠᴏʟᴏᴘᴇʀ. I fell coding is my Hobby. And  that's it.
-<img src="https://cdn-icons-png.flaticon.com/128/5813/5813665.png" width="50" height="45"/> </h2>
-<h2> ❤𝙸 𝚎𝚗𝚓𝚘𝚢 𝚌𝚘𝚍𝚒𝚗𝚐 𝚊𝚗𝚍 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 <img src="https://cdn-icons-png.flaticon.com/128/5813/5813766.png" width="45" height="38" />  </h2>
-<h2> ɪ ᴀʟsᴏ ʟᴏᴠᴇᴅ ᴛᴏ ᴅɪᴘʟᴏʏ ᴀᴘᴘ ᴀɴᴅ sʜᴏᴡɪɴɢ ᴛᴏ ᴏᴛʜᴇʀs ɪɴ ᴛʜᴀᴛ ᴜʀʟ <img src="https://cdn-icons-png.flaticon.com/128/2351/2351362.png" width="50" height="45"/></h2>
-<h2>ɪ ᴀʟsᴏ ʟɪᴋᴇ ᴛᴏ ᴄᴜsᴛᴏᴍɪᴢᴇ ᴍʏ ᴅᴀɪʟʏ ᴜsᴇᴅ ᴛᴏᴏʟs. <img src="https://cdn-icons-png.flaticon.com/128/4067/4067628.png" width="50" height="45" /></h2>
-<h2>ᴀʟʟ ᴍʏ ᴘʀᴏᴊᴇᴄᴛs ɪ ᴘᴜᴛ ɢɪᴛʜᴜʙ ʀᴇɢᴜʟᴀʀʟʏ <img src="https://t4.ftcdn.net/jpg/02/50/30/59/240_F_250305943_sDC6la1N1fDl3bLgfLxOkQwItIodsdMb.jpg" width="50" height="45"/></h2>
-<h2>  ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴍᴇʀɴ sᴛᴀᴄᴋ & ᴏᴛʜᴇʀ ᴡᴇʙ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇs<img src="https://cdn-icons-png.flaticon.com/128/2408/2408274.png" width="50" height="45" /></h2>
-<h3>𝚖𝚘𝚜𝚝 𝚞𝚜𝚎𝚍 𝚕𝚒𝚗𝚎𝚜 𝚌𝚘𝚗𝚜𝚘𝚕𝚎.𝚕𝚘𝚐('𝚑𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍')</h3>
-<h2>ｃｏｎｔａｃｔ　ｍｅ　 <img src="https://cdn-icons-png.flaticon.com/128/5809/5809295.png" width="50" height="45" /></h2>
-https://raihanjishan3242@gmail.com 
-<h1 align="center">🅼🆈 🆂🅺🅸🅻🅻'🆂 <img src="https://cdn-icons-png.flaticon.com/128/7163/7163935.png" width="50" height="50" /> </h1>
-<h2 align="left">Front End -- 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 </h2>
-<h3><img src="https://t4.ftcdn.net/jpg/04/18/60/19/240_F_418601991_Jvt0aZrBDxgbd5EJR1UyKXHvO9Q1mSBw.jpg" width="50" height="45" />  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="50" height="45" /> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50" height="45" />
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="50" height="45" /> 
+<!-- Main  text here -->
+<h1 align="center" style="font-size:2.5em; letter-spacing:3px; margin:1em; border-radius:9px;   border-right:12px solid #22c55e;"> Hi There  <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" alt="image not found!" width="35"/>   My Smarter Freind</h1>
+<!-- main text end there -->
+<!-- description  -->
+<h2 align="center"  style="color:#f6f6f6; font-size: 1.7em; line-height:40px; margin:20px; letter-spacing:2px; "> I'm Raihan, a Full Stack <span style="border-bottom:4px solid #fbbf24;"> Web Application Developer from Bangladesh.
+</span>
+ With huge love of web-application creating and try solve people problems with that. </h2> 
+<!-- end there -->
+<!-- cover image there -->
+<div style="margin:50px">
+<img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/Screenshot%20(125).png"  style="border-radius:9px; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;"/>
+</div>
+<!-- cover image end there -->
+<!-- some info there -->
+<h3 style="font-size:2.5em; text-transform:capitalize; letter-spacing:3px;">s<span style="border-bottom:4px solid #10b981; border-bottom-right-radius:12px;">ome info about me <img src="https://cdn-icons-png.flaticon.com/128/3357/3357490.png" width="40"/></span></h3>
+<div style="margin:50px">
+<!-- list one -->
+<h1 style="font-weight:400; border-right:4px solid #4ade80"><img src="https://cdn-icons-png.flaticon.com/128/5293/5293828.png" width="25"/>. Enjoy to programming and build projects, sharing knowledge 💘</h1>
+<!-- close -->
+<!-- list two -->
+<h1 style="font-weight:400; border-right:4px solid #4ade80; margin-top:30px"><img src="https://cdn-icons-png.flaticon.com/128/3479/3479571.png" width="25"/>. I like to solve people problem by modern web technologies <img src="https://cdn-icons-png.flaticon.com/128/3715/3715301.png" width="40"/></h1>
+<!-- close -->
+<!-- list three -->
+<h1 style="font-weight:400; border-right:4px solid #4ade80; margin-top:30px"><img src="https://cdn-icons-png.flaticon.com/128/3570/3570103.png" width="25"/>. Also like make project pretty <span style="border-bottom:4px solid #0d9488; ">
+hardly using react <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" width="40" />
+</span>
+</h1>
 
- 
- <img src="https://th.bing.com/th/id/OIP.0rHhkJGjUw37i-wGtakm3AHaHa?w=146&h=180&c=7&r=0&o=5&pid=1.7"  width="120" height="65" /> 
-<img src="https://th.bing.com/th/id/OIP.csWCtvv-ln1Y-EjFgOmregHaCe?w=327&h=116&c=7&r=0&o=5&pid=1.7"  width="165" height="65"  /> 
- <img src="https://www.bing.com/th?id=OIP.y34TPDIE-YiB6SdaEjT8vgHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="160" height="65" /> 
- <img src="https://th.bing.com/th/id/OIP.VlUJykgkLTpmgjWaIROQLAHaA7?pid=ImgDet&rs=1"  width="170" height="55" />
- 
-  <img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png"  width="140" height="90"    />
- </h3>
- 
- 
- <h3>
- <img src="https://howtogeek.com/wp-content/uploads/csit/2019/07/9608c9ff.png?height=200p&trim=2,2,2,2&crop=16:9" width="125" height="63" /> 
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6gTnjSSaadPQ8-Nk6lg0-mgmkJsNf_N2CkQ&usqp=CAU" width="170" height="83"/>
- <img src="https://www.bing.com/th?id=OIP.OrjCKmou1jT4It5so5gvOAHaEh&w=319&h=195&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="150" height="63" />
- <img src="https://www.bing.com/th?id=OIP.uKcXMiwIIUy4xkgtEto6kAAAAA&w=328&h=176&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="125" height="63" />
- <img src="https://th.bing.com/th/id/OIP.pM4to_0FcQy6Re3DejMVoQHaDn?w=301&h=170&c=7&r=0&o=5&pid=1.7" width="125" height="62" />
- <img src="https://camo.githubusercontent.com/9ddb0af3fa1756156d9772c38cdd7fcbe46c60b4dce78fb1d465051cde0f13f7/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f69642f313331373730363833312f70686f746f2f6170692d6170706c69636174696f6e2d70726f6772616d6d696e672d696e746572666163652d736f6674776172652d646576656c6f706d656e742d746f6f6c2d627573696e6573732d6d6f6465726e2d746563686e6f6c6f67792e6a70673f733d3631327836313226773d30266b3d323026633d5634686447304e69714b68626b34564677466b744e73366268713879586f5f5471645f5f38764b5a71646b3d" width="120" height="65" /> 
- </h3>
+<!-- close -->
+</div>
+<!-- some info end here! -->
+<!-- contact info start there -->
+  <h3 style="font-size:2.5em; text-transform:capitalize; letter-spacing:3px;">c<span style="border-bottom:4px solid #9333ea; border-bottom-right-radius:12px;">ontact with me <img src="https://cdn-icons-png.flaticon.com/128/3771/3771518.png" width="40"/></span></h3>
+  <!-- social links -->
+  <div style="margin:50px;   ">
+   <!-- facebook -->
+   <a href="www.google.com" style="margin:20px; ">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" width="90" />
+   </a>
+ <!-- youtube -->
+   <a href="www.youtube.com" style="margin:5px">
+    <img src="https://cdn-icons-png.flaticon.com/128/4494/4494485.png" width="90"/>
+   </a>
+   <!-- gmail -->
+   <a href="raihan-jishan2131@gmail.com" style="margin:20px">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="90"/>
+   </a>
+   <!-- twiter / x.com 😁 -->
+   <a href="https://twitter.com/" style="margin:15px">
+    <img src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" width="90"/>
+   </a>
+   <!-- linkdin account -->
+   <a href="https://linkedin.com/" style="margin:15px">
+    <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="90"/>
+   </a>
+  </div>
 
+  <!-- social links end there -->
+<!-- contact info end there -->
+<!-- skill section start here -->
 
- <h1 align="center"> Ｂａｃｋｅｎｄ  </h1>
- 
- <h3>
- <img src="https://t3.ftcdn.net/jpg/03/52/67/82/240_F_352678266_NFcwIwhhY76mkQItT4lCxyxcCTP3LgvY.jpg" width="170" height="72" />
- <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" width="150" height="62" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCxpIS6TKcdjEIOebZbEufMaGahjoR_fBI9UxyrQtA&s" width="125" height="62" /> 
- </h3>
+<h3 style="font-size:3em; text-align:center; letter-spacing: 4px;text-transform:capitalize; letter-spacing:3px;"><span style="background:#0891b2; border-bottom-right-radius:20px; ;border-top-left-radius:20px; color:#000; padding:10px 50px;">My Skills <span style="background:#f59e0b; border-radius:20px; padding:2px;  ">
+Frontedn
+</span>
+<img src="https://cdn-icons-png.flaticon.com/128/2502/2502399.png" width="40"/></span></h3>
 
- <h1 align="center">𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖</h1>
- <h3><img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" width="165" height="67" />
- <img src="https://www.bing.com/th?id=OIP.CW0zviqtRu_lFvz2_s4yrQHaEA&w=261&h=141&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="125" height="63" />
- <img src="https://th.bing.com/th/id/OIP.-UxRkS1XKkPRaBTG5aGVSAHaHa?pid=ImgDet&rs=1" width="125" height="65" /> 
-</h3>
+<!-- frontend title  -->
+   <div style="margin-top:50px; border-bottom:1px solid #374151;">
+   <!-- html  -->
+ <a style="margin:10px ;">
+     <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" width="70"  style="border-radius:10px;"/>
+    </a>
+    <!-- css -->
+    <a style="margin:10px ">
+     <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="70"  style="border-radius:10px;"/>
+    </a>
+  <!--js   -->
+    <a style="margin:10px ">
+     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="70"  style="border-radius:10px;"/>
+     </a>
+     <!-- tailwind -->
+     <a style="margin:10px ">
+     <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="90"  />
+    </a>
+    <!-- sass  -->
+    <a style="margin:10px ">
+     <img src="https://cdn-icons-png.flaticon.com/128/919/919831.png" width="70"  />
+     </a>
+     <!-- bostrap -->
+    <a style="margin:10px ">
+     <img src="
+     https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="70"  />
+     </a>
+     <!-- mui  -->
+    <a style="margin:10px ">
+     <img src="
+     https://mui.com/static/logo.png" width="70"  />
+     </a>
+     <!-- chakra ui -->
+    <a style="margin:10px ">
+     <img src="
+     https://miro.medium.com/v2/resize:fit:800/1*8hhfdEqRkRQSaJrJlx60zg.png" width="70"   style="border-radius:5px;"/>
+     </a>
+     <!-- react js -->
+    <a style="margin:10px ">
+     <img src="
+    https://cdn-icons-png.flaticon.com/128/1260/1260667.png" width="70"  />
+     </a>
+     <!-- vue js -->
+    <a style="margin:10px ">
+     <img src="
+   https://t3.ftcdn.net/jpg/05/83/61/64/240_F_583616418_CYdixHVmW7xmITKTpwtpZxOtexp2MoQ8.jpg" width="70"  style="border-radius:20px;" />
+     </a>
+</div>
+   <!-- second row  -->
+   <div style="margin-top:50px; border-bottom:3px solid #9333ea; padding:10px; border-bottom-right-radius:30px">
+   <!-- next js -->
+ <a style="margin:10px ">
+     <img src="
+   https://gorzelinski.com/static/1db41e3ecd311724a15306b270d99dd9/6e87d/next-js-logo.png" width="120" style="border-radius:20px;" />
+     </a>
+     <!-- typescript -->
+ <a style="margin:10px ">
+     <img src="
+   https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="70" style="border-radius:10px;" />
+     </a>
+     <!-- react hooks -->
+ <a style="margin:10px ">
+     <img src="
+   https://blog.knoldus.com/wp-content/uploads/2020/05/hooks.png" width="140" style="border-radius:20px;" />
+     </a>
+     <!-- es6 -->
+ <a style="margin:10px ">
+     <img src="
+   https://i.pinimg.com/originals/b5/57/64/b55764416830e7d8b0133c7c0eeaf445.png" width="70" style="border-radius:20px;" />
+     </a>
+ <a style="margin:10px ">
+     <img src="
+  https://cdn-icons-png.flaticon.com/128/603/603197.png" width="70" style="border-radius:20px;" />
+     </a>
+     <!-- firebase -->
+ <a style="margin:10px ">
+     <img src="
+ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxQktpK3Jy3GkxXutGPzl8R3OBCNMxfFWP5A&usqp=CAU" width="270" style="border-radius:20px;" />
+     </a>
 
-<h1 align="center">Ｔｏｏｌｓ</h1>
-<h3>
- <img src="https://www.bing.com/th?id=OIP.1RBrEF-S8sccsW6cBDrpEQHaDt&w=350&h=175&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="125" height="63" />
- <img src="https://th.bing.com/th/id/OIP.Aetre8Oj5vF6G4Yx4a9fZAHaHa?pid=ImgDet&rs=1" width="125" height="63" />
- <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" width="125" height="63" />
- <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" width="125" height="63" />
- <img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" width="125" height="85" />
- <img src="https://www.bing.com/th?id=OIP.AAkVsD9SIp0eF2a4BylPLQHaEH&w=335&h=186&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="140" height="70" />
- <img src="https://www.bing.com/th?id=OIP.hXaOT1AkPnxwNC82h6tEwQHaCp&w=350&h=124&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="140" height="70" />
- 
- 
- <img src="https://www.bing.com/th?id=OIP.kjCUP06WDUMR88i5wo2SqwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="140" height="90" />
- <img src="https://th.bing.com/th/id/OIP.w8rsQig6fpXe4FuiF-ircQHaHa?w=218&h=218&c=7&r=0&o=5&pid=1.7" width="140" height="90" />
- <img src="https://th.bing.com/th/id/OIP.7xmteOV3RYQeOSSmn-f8TgHaCv?w=339&h=129&c=7&r=0&o=5&pid=1.7" width="140" height="90" />
- 
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrCBjpPQqUtP4h0C8_azGZVuj-yly4ljOnFSR5QZdhQ&s" width="160" height="80" />
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGodGS-ahnSxwst8sscGq4CMfd9x4nBUfL7zLDWLPA6U2d1q0_uW3SqA9LxiTSbGza_ck&usqp=CAU" width="130" height="70" />
- 
- <img src="https://th.bing.com/th/id/OIP.Udf5ig2GyA1v_G6xsQKY4wHaEX?pid=ImgDet&rs=1" width="140"  height="90" />
- </h3>
+   </div>
+<!-- third row -->
+<div style="margin-top:50px;border-bottom:3px solid #f59e0b; padding:10px; border-bottom-right-radius:30px">
+<!-- jquery -->
+ <a style="margin:10px ">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_jQuery.svg/1200px-Logo_jQuery.svg.png" width="120" style="border-radius:20px;" />
+     </a>
+  <!-- wordpress -->
+ <a style="margin:10px ">
+     <img src="https://cdn-icons-png.flaticon.com/128/11023/11023621.png" width="70" style="border-radius:20px;" />
+     </a>
+     <!-- fontg awesome -->
+ <a style="margin:10px ">
+     <img src="https://i0.wp.com/blog.fontawesome.com/wp-content/uploads/2020/08/jSfmJLBr.png?resize=720%2C240&ssl=1" width="260" style="border-radius:20px;" />
+     </a>
+<!-- flat icons -->
+ <a style="margin:10px ">
+     <img src="https://ceblog.s3.amazonaws.com/wp-content/uploads/2023/10/09191517/flaticon-logo.png" width="180" style="border-radius:20px;" />
+     </a>
+     <!-- figma -->
+ <a style="margin:10px;">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa8B-EnTrR-ppeMsWBaMag3Yzj641C_glz3w&usqp=CAU" width="180" style="border-radius:20px;" />
+     </a>
+</div>
+<!-- fourth row -->
+<div style="margin:50px">
+<!-- ui ux  -->
+ <a style="">
+     <img src="https://www.ux-ui.net/ux/uploads/2017/03/ux-ui-logo.svg" width="180" style="border-radius:20px;" />
+     </a>
+ <a style="margin:10px">
+     <img src="https://flowbite.s3.amazonaws.com/github/flowbite-react.png" width="180" style="border-radius:20px;" />
+     </a>
+ <a style="margin:10px">
+     <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo-700x394.png" width="180" style="border-radius:20px;" />
+     </a>
+ <a style="margin:10px">
+     <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*sX8rBJBol5dBp5WIJQrYyw.png" width="180" style="border-radius:20px;" />
+     </a>
 
+</div>
+<!-- backend -->
+<h3 style="font-size:3em; text-align:center; letter-spacing: 4px;text-transform:capitalize; letter-spacing:3px;"><span style="background:#22c55e; border-bottom-right-radius:20px; ;border-top-left-radius:20px; color:#000; padding:10px 50px;">Backend<img src="https://cdn-icons-png.flaticon.com/128/9970/9970932.png" width="50"/></span></h3>
 
+<!-- list one -->
+<div style="margin-top:50px;">
+  <!-- node -->
+ <a>
+     <img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="150" style="border-radius:20px;" />
+     </a>
+     <!-- express.js -->
+      <a style="margin:10px">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtjgVupjV7-MvQvYy45mKh7mZi8SqCCUf1763v7H0ZJmtAAxZG1Y7NJnTmz4ZwfOiCfv4&usqp=CAU" width="170" style="border-radius:20px;" />
+     </a>
+      <a style="margin:10px">
+     <img src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" width="100" style="border-radius:20px;" />
+     </a>
+      <a style="margin:10px">
+     <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" width="250" style="border-radius:20px;" />
+     </a>
+      <a style="margin:10px">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-pCRSJumLePuD2Qc_GY5v7_PxbbWfQUIfBmAU7kj6A&s" width="150" style="border-radius:20px;" />
+     </a>
+</div>
+<!-- database -->
+<h3 style="font-size:3em; text-align:center; letter-spacing: 4px;text-transform:capitalize; letter-spacing:3px;"><span style="background:#10b981; border-bottom-right-radius:20px; ;border-top-left-radius:20px; color:#000; padding:10px 50px;">Database<img src="https://cdn-icons-png.flaticon.com/128/3222/3222791.png" width="50"/></span></h3>
 
+<div style="margin-top50px">
+   <!-- list one row -->
+      <a style="margin:10px">
+     <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" width="150" style="border-radius:20px;" />
+     </a>
+      <a style="margin:10px">
+     <img src="https://cms-assets.tutsplus.com/uploads/users/34/syllabuses/1228/preview_image/mongoose.jpg" width="150" style="border-radius:20px;" />
+     </a>
+ <a style="margin:10px ">
+     <img src="
+ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxQktpK3Jy3GkxXutGPzl8R3OBCNMxfFWP5A&usqp=CAU" width="270" style="border-radius:20px;" />
+     </a>
+ <a style="margin:10px ">
+     <img src="
+ https://aety.io/wp-content/uploads/2016/11/mysql-logo.png" width="270" style="border-radius:20px;" />
+     </a>
+</div>
+<!-- tolls -->
+<h3 style="font-size:3em; text-align:center; letter-spacing: 4px;text-transform:capitalize; letter-spacing:3px;"><span style="background:#facc15; border-bottom-right-radius:30px; ;border-top-left-radius:30px; color:#000; padding:10px 50px;">Tools<img src="https://cdn-icons-png.flaticon.com/128/675/675579.png" width="50"/></span></h3>
+  <div style="margin-top:50px;">
+<a style="margin:10px ">
+ <!-- github -->
+     <img src="
+ https://static.vecteezy.com/system/resources/previews/016/833/880/non_2x/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="170" style="border-radius:20px;" />
+     </a>
+     <!-- git -->
+ <a style="margin:10px ">
+     <img src="
+ https://logowik.com/content/uploads/images/git6963.jpg" width="120" style="border-radius:20px;" />
+     </a>
+     <!-- npm -->
+ <a style="margin:10px ">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6UO3biHTTJ3H4TxvQ3YjbJmbT-MydOV8BZtUHdw16L-5CNUl36FJgvMb40qhNrlty6Wk&usqp=CAU" width="120" style="border-radius:20px;" />
+     </a>
+     <!-- yarn -->
+ <a style="margin:10px ">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yarn-logo-kitten.svg/512px-Yarn-logo-kitten.svg.png" width="120" style="border-radius:20px;" />
+     </a>
+     <!-- heruko -->
+ <a style="margin:10px ">
+     <img src="https://logowik.com/content/uploads/images/heroku8748.jpg" width="120" style="border-radius:20px;" />
+     </a>
+     <!-- render -->
+ <a style="margin:10px ">
+     <img src="https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo-300x157.png" width="160" style="border-radius:20px;" />
+     </a>
 
+  </div>
+<!-- second row -->
+<!-- netlify -->
+  <div style="margin-top:50px;">
+ <a style="margin:10px ">
+     <img src="https://logowik.com/content/uploads/images/netlify-new-20234970.logowik.com.webp" width="160" style="border-radius:20px;" />
+     </a>
+     <!-- vercel -->
+ <a style="margin:10px ">
+     <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" width="160" style="border-radius:20px;" />
+     </a>
+     <!-- postman -->
+ <a style="margin:10px ">
+     <img src="https://blog.postman.com/wp-content/uploads/2014/07/logo.png" width="180" style="border-radius:20px;" />
+     </a>
+     <!-- visual-studio-code -->
+ <a style="margin:10px ">
+     <img src="https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon.png" width="160" style="border-radius:20px;" />
+     </a>
+     <!-- prettier -->
+ <a style="margin:10px ">
+     <img src="https://gregberge.com/static/a15f8dc6cde9d6dc9e94a2edb43b6108/2ceb4/banner.png" width="180" style="border-radius:20px;" />
+     </a>
+</div>
+<!-- third row -->
+<div style="margin-top:50px;border-bottom:4px solid #e11d48; padding:10px">
+<!-- eslint -->
+ <a style="margin:10px ">
+     <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.4.2/1687441427519/Microsoft.VisualStudio.Services.Icons.Default" width="140" style="border-radius:20px;" />
+     </a>
+     <!-- markdown -->
+ <a style="margin:10px ">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcq8_T7F7Nhjj7uM78iuQIHjaEUg-hl_iQeSANQvL8LBhv-cPdFiiG548PgEb9s37oBU&usqp=CAU" width="140" style="border-radius:20px;" />
+     </a>
+ <a style="margin:10px ">
+     <img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ech2ot0kynieclrmoflr" width="180" style="border-radius:20px;" />
+     </a>
+ <a style="margin:10px ">
+     <img src="https://maven.com/_next/image?url=https%3A%2F%2Fd2426xcxuh3ht5.cloudfront.net%2F39jXeQXJRQ6glthozzzq_what-is-chatgpt.png&w=1536&q=75" width="180" style="border-radius:20px;" />
+     </a>
+ <a style="margin:10px ">
+     <img src="https://i.ibb.co/HD1q3vv/lwst.png" width="200" style="border-radius:20px;" />
+     </a>
 
-<h3>ᴀɴᴅ ᴏɴᴇ ʟᴀsᴛ ғᴜɴғᴀᴄᴛ ɪ ᴀʟsᴏ ʟᴏᴠᴇ ᴍʏ ʟᴇᴘᴛᴏᴘ ᴀʟsᴏ<img src="https://cdn-icons-png.flaticon.com/128/7626/7626740.png" width="50" height="45" /> </h3>
-
-
- <h2 align="center">ᴀɴᴅ ᴛʜᴀɴᴋ You  So-Much  ᴍʏ sᴍᴀʀᴛᴇʀ ғʀᴇɪɴᴅ ғᴏʀ sᴇᴇɪɴɢ ᴛʜɪs, sᴏʀʀʏ! ɪғ ʏᴏᴜ ғᴇᴇʟ ᴍᴇ ᴀɴʏᴛʜɴɢ ᴇʟsᴇ.. ɪɴ sᴋɪʟʟ ᴏʀ ᴏᴛʜᴇʀ sᴛᴀғs..．
-I'am really sorry for that.... 
-</h2>
- <h1><img src="https://cdn-icons-png.flaticon.com/128/2279/2279398.png" width="170" height="80" /></h1>
-
-
-<!---
-raihan-jishan/raihan-jishan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
