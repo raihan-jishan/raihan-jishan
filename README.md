@@ -303,3 +303,20 @@ Frontedn
      </a>
 
 </div>
+
+<!-- more about me -->
+<details>
+<summary>
+  <p style="font-size:2em;">You wanna know more about me?</p>
+</summary>
+
+<br >
+
+<h1> I like to make project , love to creating them on own hand. And diploy that, and trying to solve people problem by them.</h1>
+
+# contact raihan-jishan3242@gmail.com
+
+<h1>Thanks for viewing this small person repository. </h1>
+
+</details>
+
