@@ -59,7 +59,7 @@ hardly using react <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012
 <!-- contact info end there -->
 <!-- skill section start here -->
 
-<h1>My skills frontend
+<h1 align="center">My skills frontend
 <img src="https://cdn-icons-png.flaticon.com/128/2502/2502399.png" width="40"/></span></h1>
 
 <!-- frontend title  -->
@@ -184,7 +184,7 @@ hardly using react <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012
 
 </div>
 <!-- backend -->
-<h1> Backend end <img src="https://cdn-icons-png.flaticon.com/128/9970/9970932.png" width="50"/></h1>
+<h1 align="center"> Backend end <img src="https://cdn-icons-png.flaticon.com/128/9970/9970932.png" width="50"/></h1>
 
 <!-- list one -->
 <div style="margin-top:50px;">
@@ -207,7 +207,7 @@ hardly using react <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012
      </a>
 </div>
 <!-- database -->
-<h1>Database<img src="https://cdn-icons-png.flaticon.com/128/3222/3222791.png" width="50"/> </h1>
+<h1 align="center"> Database<img src="https://cdn-icons-png.flaticon.com/128/3222/3222791.png" width="50"/> </h1>
 
 <div style="margin-top50px">
    <!-- list one row -->
@@ -304,7 +304,7 @@ hardly using react <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012
 <!-- more about me -->
 <details>
 <summary>
-  <p style="font-size:2em;">You wanna know more about me?</p>
+  <h1>You wanna know more about me?</h1>
 </summary>
 
 <br >
