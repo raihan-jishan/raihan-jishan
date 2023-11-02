@@ -12,7 +12,7 @@
 </div>
 <!-- cover image end there -->
 <!-- some info there -->
-<h3 style="font-size:2.5em; text-transform:capitalize; letter-spacing:3px;">s<span style="border-bottom:4px solid #10b981; border-bottom-right-radius:12px;">ome info about me <img src="https://cdn-icons-png.flaticon.com/128/3357/3357490.png" width="40"/></span></h3>
+<h1>some info about me <img src="https://cdn-icons-png.flaticon.com/128/3771/3771518.png" width="40"/></h1>
 <div style="margin:50px">
 <!-- list one -->
 <h1 style="font-weight:400; border-right:4px solid #4ade80"><img src="https://cdn-icons-png.flaticon.com/128/5293/5293828.png" width="25"/>. Enjoy to programming and build projects, sharing knowledge 💘</h1>
@@ -30,7 +30,7 @@ hardly using react <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012
 </div>
 <!-- some info end here! -->
 <!-- contact info start there -->
-  <h3 style="font-size:2.5em; text-transform:capitalize; letter-spacing:3px;">c<span style="border-bottom:4px solid #9333ea; border-bottom-right-radius:12px;">ontact with me <img src="https://cdn-icons-png.flaticon.com/128/3771/3771518.png" width="40"/></span></h3>
+ <h1> Contact with me <img src="https://cdn-icons-png.flaticon.com/128/3771/3771518.png" width="40"/></h1>
   <!-- social links -->
   <div style="margin:50px;   ">
    <!-- facebook -->
@@ -59,10 +59,8 @@ hardly using react <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012
 <!-- contact info end there -->
 <!-- skill section start here -->
 
-<h3 style="font-size:3em; text-align:center; letter-spacing: 4px;text-transform:capitalize; letter-spacing:3px;"><span style="background:#0891b2; border-bottom-right-radius:20px; ;border-top-left-radius:20px; color:#000; padding:10px 50px;">My Skills <span style="background:#f59e0b; border-radius:20px; padding:2px;  ">
-Frontedn
-</span>
-<img src="https://cdn-icons-png.flaticon.com/128/2502/2502399.png" width="40"/></span></h3>
+<h1>My skills frontend
+<img src="https://cdn-icons-png.flaticon.com/128/2502/2502399.png" width="40"/></span></h1>
 
 <!-- frontend title  -->
    <div style="margin-top:50px; border-bottom:1px solid #374151;">
@@ -186,7 +184,7 @@ Frontedn
 
 </div>
 <!-- backend -->
-<h3 style="font-size:3em; text-align:center; letter-spacing: 4px;text-transform:capitalize; letter-spacing:3px;"><span style="background:#22c55e; border-bottom-right-radius:20px; ;border-top-left-radius:20px; color:#000; padding:10px 50px;">Backend<img src="https://cdn-icons-png.flaticon.com/128/9970/9970932.png" width="50"/></span></h3>
+<h1> Backend end <img src="https://cdn-icons-png.flaticon.com/128/9970/9970932.png" width="50"/></h1>
 
 <!-- list one -->
 <div style="margin-top:50px;">
@@ -209,7 +207,7 @@ Frontedn
      </a>
 </div>
 <!-- database -->
-<h3 style="font-size:3em; text-align:center; letter-spacing: 4px;text-transform:capitalize; letter-spacing:3px;"><span style="background:#10b981; border-bottom-right-radius:20px; ;border-top-left-radius:20px; color:#000; padding:10px 50px;">Database<img src="https://cdn-icons-png.flaticon.com/128/3222/3222791.png" width="50"/></span></h3>
+<h1>Database<img src="https://cdn-icons-png.flaticon.com/128/3222/3222791.png" width="50"/> </h1>
 
 <div style="margin-top50px">
    <!-- list one row -->
@@ -229,7 +227,7 @@ Frontedn
      </a>
 </div>
 <!-- tolls -->
-<h3 style="font-size:3em; text-align:center; letter-spacing: 4px;text-transform:capitalize; letter-spacing:3px;"><span style="background:#facc15; border-bottom-right-radius:30px; ;border-top-left-radius:30px; color:#000; padding:10px 50px;">Tools<img src="https://cdn-icons-png.flaticon.com/128/675/675579.png" width="50"/></span></h3>
+<h1>Tools<img src="https://cdn-icons-png.flaticon.com/128/675/675579.png" width="50"/></span></h1>
   <div style="margin-top:50px;">
 <a style="margin:10px ">
  <!-- github -->
@@ -303,6 +301,18 @@ Frontedn
      </a>
 
 </div>
+<!-- more about me -->
+<details>
+<summary>
+  <p style="font-size:2em;">You wanna know more about me?</p>
+</summary>
 
- 
+<br >
 
+<h1> I like to make project , love to creating them on own hand. And diploy that, and trying to solve people problem by them.</h1>
+
+# contact raihan-jishan3242@gmail.com
+
+<h1>Thanks for viewing this small person repository. </h1>
+
+</details>
