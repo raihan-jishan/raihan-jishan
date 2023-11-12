@@ -1,5 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/images/wave-hello.gif" alt="photo not found!" width="35" /> </p>
 <h1 align="center"> Hi There  My Smarter Freind  </h1>
-<p align="left"><img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/images/wave-hello.gif" alt="photo not found!" width="35" /> </p>
 <img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/Screenshot%20(125).png"  style="border-radius:9px; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;"/>
  <!-- description  -->
 <h2 align="center"> I'm Raihan, a Full Stack <span> Web Application Developer from Bangladesh.
