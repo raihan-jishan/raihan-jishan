@@ -1,6 +1,6 @@
 <p><img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/images/wave-hello.gif" alt="photo not found!" width="35" /> </p>
 <h1 align="center"> Hi There  My Smarter Freind  </h1>
-<img  src="[url=https://ibb.co/RgsNqWR][img]https://i.ibb.co/RgsNqWR/Screenshot-7.png[/img][/url]"/>
+<img  src="https://i.ibb.co/vcThS80/Screenshot-7.png"/>
  <!-- description  -->
 <h2 align="center"> I'm Raihan, a Full Stack <span> Web Application Developer from Bangladesh.
 </span>
